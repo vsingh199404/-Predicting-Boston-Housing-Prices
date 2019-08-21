@@ -44,3 +44,13 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+
+## Covered demonstrations of the following:
+ 
+1. Importing data using pandas
+2. sklearn train_test_split
+3. sklearn performance matrix
+4. Model performance analysis via graphs 
+5. Bias-Variance Tradeoff
+6. DecisionTreeRegressor implementation.
+7. choosing optimal parameters for ML model using GridSearchCV
